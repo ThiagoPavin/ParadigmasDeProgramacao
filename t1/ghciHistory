@@ -1,0 +1,41 @@
+isInt "334"
+isInt "asde334"
+firstName "Thiago Pavin"
+codifica1 ""
+codifica2 ""
+codifica2 "asdf asdf asdf"
+codifica1 "asdf asdf asdf"
+codifica "asdf asdf asdf"
+removeVogais2 "asder"
+removeVogais1 "asder"
+isNotVowel 'a'
+removeVogais1 "asde"
+removeVogais1 ["asde"]
+removeVogais1 ["asde","eruehd"]
+htmlListItems1 ["hey","alo"]
+htmlListItems2 ["hey","alo"]
+htmlListItems ["hey","alo"]
+addComma ["alo","burrao"]
+isVowel 'W'
+isVowel 'A'
+isVowel 'w'
+isVowel 'a'
+entrecem [1,2,3,444,300,12,-4]
+entrecem [1,2,3,444,300,12]
+negativo [-1,2,3,-4]
+conta [1,2,3]
+contaEspaco "vai toma no cu"
+contaEspaco "vai toma no cu"
+verEspaço ' '
+verEspaço 'a'
+hasEqHeads [1,2] [1,4]
+hasEqHeads [1,2] [2,1]
+sumSquares 2 3
+sumSquares 2 2
+square (2+1)
+square 2 + 1
+square 5
+square 5
+soma :: Int -> Int -> Int
+soma :: Int -> Int -> Int
+soma :: Int -> Int -> Int
