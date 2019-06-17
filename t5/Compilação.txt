@@ -1,0 +1,4 @@
+
+Para funcionar o programa deve alterar o destino do arquivo nomes, para o destino em que ele está em seu computador.
+
+Utilizei o NetBeansIDE 8.2
