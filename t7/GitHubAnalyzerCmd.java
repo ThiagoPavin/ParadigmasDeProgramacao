@@ -32,7 +32,7 @@ public class GitHubAnalyzerCmd {
             @Override
             public void run(){   //Anonymous class overriding run() method of Thread class
                 try {
-                    ParseGithubWithGson(nomeArquivo, "https://api.github.com/repos/google/gson/commits");   
+                    ParseGithubWithGson(nomeArquivo, args[0]);   
                 } catch (IOException ex) {
                     Logger.getLogger(GitHubAnalyzerCmd.class.getName()).log(Level.SEVERE, null, ex);
                 }
